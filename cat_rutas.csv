@@ -1,0 +1,273 @@
+Ruta,Region_ruta
+ACAMEX,Nacional
+AGUMEX,Nacional
+BJXMEX,Nacional
+BJXMTY,Nacional
+CENMEX,Nacional
+CJSMEX,Nacional
+CJSMTY,Nacional
+CLQMEX,Nacional
+CMEMEX,Nacional
+CPEMEX,Nacional
+CULMEX,Nacional
+CUNMEX,Nacional
+CUNMTY,Nacional
+CUUMEX,Nacional
+CUUMTY,Nacional
+DGOMEX,Nacional
+DGOTIJ,Nacional
+GDLMEX,Nacional
+GDLMTY,Nacional
+GDLTIJ,Nacional
+HMOMEX,Nacional
+HMOMTY,Nacional
+HUXMEX,Nacional
+LAPMEX,Nacional
+LMMMEX,Nacional
+MAMMEX,Nacional
+MEXACA,Nacional
+MEXAGU,Nacional
+MEXBJX,Nacional
+MEXCEN,Nacional
+MEXCJS,Nacional
+MEXCLQ,Nacional
+MEXCME,Nacional
+MEXCPE,Nacional
+MEXCUL,Nacional
+MEXCUN,Nacional
+MEXCUU,Nacional
+MEXDGO,Nacional
+MEXGDL,Nacional
+MEXHMO,Nacional
+MEXHUX,Nacional
+MEXLAP,Nacional
+MEXLMM,Nacional
+MEXMAM,Nacional
+MEXMID,Nacional
+MEXMLM,Nacional
+MEXMTT,Nacional
+MEXMTY,Nacional
+MEXMXL,Nacional
+MEXMZT,Nacional
+MEXNLD,Nacional
+MEXOAX,Nacional
+MEXPVR,Nacional
+MEXQRO,Nacional
+MEXREX,Nacional
+MEXSJD,Nacional
+MEXSLP,Nacional
+MEXSLW,Nacional
+MEXTAM,Nacional
+MEXTAP,Nacional
+MEXTGZ,Nacional
+MEXTIJ,Nacional
+MEXTRC,Nacional
+MEXVER,Nacional
+MEXVSA,Nacional
+MEXZCL,Nacional
+MEXZIH,Nacional
+MEXZLO,Nacional
+MIDMEX,Nacional
+MLMMEX,Nacional
+MTTMEX,Nacional
+MTYBJX,Nacional
+MTYCJS,Nacional
+MTYCUN,Nacional
+MTYCUU,Nacional
+MTYGDL,Nacional
+MTYHMO,Nacional
+MTYMEX,Nacional
+MTYPBC,Nacional
+MTYQRO,Nacional
+MTYSLP,Nacional
+MTYTIJ,Nacional
+MXLMEX,Nacional
+MZTMEX,Nacional
+NLDMEX,Nacional
+OAXMEX,Nacional
+PBCMTY,Nacional
+PVRMEX,Nacional
+QROMEX,Nacional
+QROMTY,Nacional
+REXMEX,Nacional
+SJDMEX,Nacional
+SLPMEX,Nacional
+SLPMTY,Nacional
+SLWMEX,Nacional
+TAMMEX,Nacional
+TAPMEX,Nacional
+TGZMEX,Nacional
+TIJDGO,Nacional
+TIJGDL,Nacional
+TIJMEX,Nacional
+TIJMTY,Nacional
+TLCMTY,Nacional
+TRCMEX,Nacional
+VERMEX,Nacional
+VSAMEX,Nacional
+ZCLMEX,Nacional
+ZIHMEX,Nacional
+ZLOMEX,Nacional
+ICNMEX,Europa-Asia
+MEXNRT,Europa-Asia
+MTYICN,Europa-Asia
+NRTMEX,Europa-Asia
+PVGMEX,Europa-Asia
+TIJPVG,Europa-Asia
+MEXYUL,Norte America
+MEXYVR,Norte America
+MEXYYC,Norte America
+MEXYYZ,Norte America
+YULMEX,Norte America
+YVRMEX,Norte America
+YYCMEX,Norte America
+YYZMEX,Norte America
+AMSMEX,Europa-Asia
+CDGMEX,Europa-Asia
+LHRMEX,Europa-Asia
+MADMEX,Europa-Asia
+MEXAMS,Europa-Asia
+MEXCDG,Europa-Asia
+MEXLHR,Europa-Asia
+MEXMAD,Europa-Asia
+BOGMEX,LATAM
+CUNHAV,LATAM
+CUNMDE,LATAM
+EZECUN,LATAM
+EZEMEX,LATAM
+GRUMEX,LATAM
+GRUQRO,LATAM
+GUAMEX,LATAM
+HAVCUN,LATAM
+HAVMEX,LATAM
+HAVVER,LATAM
+LIMMEX,LATAM
+LIRMEX,LATAM
+MDECUN,LATAM
+MDEMEX,LATAM
+MEXBOG,LATAM
+MEXBZE,LATAM
+MEXEZE,LATAM
+MEXGRU,LATAM
+MEXGUA,LATAM
+MEXHAV,LATAM
+MEXLIM,LATAM
+MEXLIR,LATAM
+MEXMDE,LATAM
+MEXMGA,LATAM
+MEXPTY,LATAM
+MEXPUJ,LATAM
+MEXSAL,LATAM
+MEXSAP,LATAM
+MEXSCL,LATAM
+MEXSDQ,LATAM
+MEXSJO,LATAM
+MEXUIO,LATAM
+MGAMEX,LATAM
+PTYMEX,LATAM
+PUJMEX,LATAM
+SALMEX,LATAM
+SAPMEX,LATAM
+SCLMEX,LATAM
+SDQMEX,LATAM
+SJOMEX,LATAM
+UIOMEX,LATAM
+ATLBJX,Norte America
+ATLGDL,Norte America
+ATLQRO,Norte America
+AUSMEX,Norte America
+BJXATL,Norte America
+BJXDTW,Norte America
+BJXLAX,Norte America
+BOSMEX,Norte America
+DENMEX,Norte America
+DENMTY,Norte America
+DFWMEX,Norte America
+DFWMTY,Norte America
+DTWBJX,Norte America
+DTWMEX,Norte America
+DTWMTY,Norte America
+DTWQRO,Norte America
+FATGDL,Norte America
+GDLATL,Norte America
+GDLFAT,Norte America
+GDLLAX,Norte America
+GDLONT,Norte America
+GDLORD,Norte America
+GDLSFO,Norte America
+GDLSLC,Norte America
+GDLSMF,Norte America
+IADMEX,Norte America
+IAHMEX,Norte America
+JFKGDL,Norte America
+JFKMEX,Norte America
+JFKMTY,Norte America
+LASMEX,Norte America
+LASMTY,Norte America
+LAXBJX,Norte America
+LAXGDL,Norte America
+LAXMEX,Norte America
+LAXMTY,Norte America
+MCOMEX,Norte America
+MCOMTY,Norte America
+MEXAUS,Norte America
+MEXBOS,Norte America
+MEXDEN,Norte America
+MEXDFW,Norte America
+MEXDTW,Norte America
+MEXIAD,Norte America
+MEXIAH,Norte America
+MEXJFK,Norte America
+MEXLAS,Norte America
+MEXLAX,Norte America
+MEXMCO,Norte America
+MEXMIA,Norte America
+MEXORD,Norte America
+MEXPDX,Norte America
+MEXSAT,Norte America
+MEXSEA,Norte America
+MEXSFO,Norte America
+MEXSLC,Norte America
+MIAMEX,Norte America
+MIAMID,Norte America
+MIDMIA,Norte America
+MTYDEN,Norte America
+MTYDTW,Norte America
+MTYJFK,Norte America
+MTYLAS,Norte America
+MTYLAX,Norte America
+ONTGDL,Norte America
+ORDGDL,Norte America
+ORDMEX,Norte America
+PDXMEX,Norte America
+QROATL,Norte America
+QRODTW,Norte America
+SATMEX,Norte America
+SEAMEX,Norte America
+SFOGDL,Norte America
+SFOMEX,Norte America
+SLCGDL,Norte America
+SMFGDL,Norte America
+SMFMZT,Norte America
+BZEMEX,LATAM
+GDLJFK,Norte America
+MEXICN,Europa-Asia
+MEXPVG,Europa-Asia
+MTYMCO,Norte America
+VSAIAH,Norte America
+IAHVSA,Norte America
+MEXGYE,LATAM
+GYEMEX,LATAM
+MEXBCN,Europa-Asia
+BCNMEX,Europa-Asia
+MEXCLO,LATAM
+CLOMEX,LATAM
+QROTIJ,Nacional
+CUNGDL,Nacional
+GDLCUN,Nacional
+SJDGDL,Nacional
+GDLSJD,Nacional
+MEXCTM,Nacional
+CTMMEX,Nacional
+PXMMEX,Nacional
+MEXPXM,Nacional
